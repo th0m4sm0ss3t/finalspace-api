@@ -1,25 +1,5 @@
-# finalspace-api
+# Final Space API
 
-## Project setup
-```
-npm install
-```
+This app was built using Vue.js, SCSS, Axios and the Final Space API.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# finalspace-api
+[Access to the demo](https://finalspace-api-tm.herokuapp.com/)
